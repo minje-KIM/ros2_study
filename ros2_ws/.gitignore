@@ -1,2 +1,7 @@
 *.log
 *.pyc
+*.bash
+*.cmake
+*.make
+*.sh
+*.zsh
