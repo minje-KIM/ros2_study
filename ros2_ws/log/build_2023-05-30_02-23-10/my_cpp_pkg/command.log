@@ -1,4 +1,0 @@
-Invoking command in '/home/minje/ros2_study/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minje/ros2_study/ros2_ws/build/my_cpp_pkg -- -j5 -l5
-Invoked command in '/home/minje/ros2_study/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minje/ros2_study/ros2_ws/build/my_cpp_pkg -- -j5 -l5
-Invoking command in '/home/minje/ros2_study/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minje/ros2_study/ros2_ws/build/my_cpp_pkg
-Invoked command in '/home/minje/ros2_study/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minje/ros2_study/ros2_ws/build/my_cpp_pkg

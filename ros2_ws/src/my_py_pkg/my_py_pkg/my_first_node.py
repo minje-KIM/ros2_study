@@ -7,7 +7,7 @@ class MyNode(Node):
     def __init__(self):
         super().__init__("py_test_OOP")
         self.counter_ = 0
-        self.get_logger().info("Hello ROS2 OOP")
+        self.get_logger().info("Hello ROS2 OOP_symlsdfsdfink")
         self.create_timer(0.5, self.timer_callback) 
         
     def timer_callback(self): # callback function
